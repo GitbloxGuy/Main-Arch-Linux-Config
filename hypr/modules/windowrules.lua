@@ -107,3 +107,10 @@ hl.window_rule({
     match = { class = "^steam_app_.*$" },
     immediate = true,
 })
+
+
+hl.window_rule({
+    match = { class = "org.vinegarhq.Sober" },
+    opacity = "1.0 override",
+})
+
