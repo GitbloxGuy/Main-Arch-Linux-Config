@@ -1,0 +1,56 @@
+2026/11/04-09:53:49.500 1b157 Creating DB /home/star/.config/vesktop/sessionData/Local Storage/leveldb since it was missing.
+2026/11/04-09:53:49.515 1b157 Reusing MANIFEST /home/star/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2026/11/04-09:56:06.897 1b157 Level-0 table #5: started
+2026/11/04-09:56:06.905 1b157 Level-0 table #5: 114977 bytes OK
+2026/11/04-09:56:06.911 1b157 Delete type=0 #3
+2026/11/04-10:06:06.894 1b157 Level-0 table #7: started
+2026/11/04-10:06:06.900 1b157 Level-0 table #7: 73600 bytes OK
+2026/11/04-10:06:06.905 1b157 Delete type=0 #4
+2026/11/04-10:07:06.894 1b157 Level-0 table #9: started
+2026/11/04-10:07:06.940 1b157 Level-0 table #9: 62034 bytes OK
+2026/11/04-10:07:06.945 1b157 Delete type=0 #6
+2026/11/04-10:18:27.722 1b157 Level-0 table #11: started
+2026/11/04-10:18:27.767 1b157 Level-0 table #11: 69045 bytes OK
+2026/11/04-10:18:27.772 1b157 Delete type=0 #8
+2026/11/04-10:20:32.736 1b157 Level-0 table #13: started
+2026/11/04-10:20:32.743 1b157 Level-0 table #13: 60592 bytes OK
+2026/11/04-10:20:32.748 1b157 Delete type=0 #10
+2026/11/04-10:21:06.894 1b157 Level-0 table #15: started
+2026/11/04-10:21:06.899 1b157 Level-0 table #15: 64473 bytes OK
+2026/11/04-10:21:06.905 1b157 Delete type=0 #12
+2026/11/04-10:21:06.905 1b157 Compacting 4@0 + 1@1 files
+2026/11/04-10:21:06.910 1b157 Generated table #16@0: 40 keys, 69361 bytes
+2026/11/04-10:21:06.910 1b157 Compacted 4@0 + 1@1 files => 69361 bytes
+2026/11/04-10:21:06.915 1b157 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/04-10:21:06.915 1b157 Delete type=2 #11
+2026/11/04-10:21:06.915 1b157 Delete type=2 #13
+2026/11/04-10:21:06.915 1b157 Delete type=2 #15
+2026/11/04-10:21:06.915 1b157 Delete type=2 #7
+2026/11/04-10:21:06.915 1b157 Delete type=2 #9
+2026/11/04-10:24:21.442 1b157 Level-0 table #18: started
+2026/11/04-10:24:21.449 1b157 Level-0 table #18: 62038 bytes OK
+2026/11/04-10:24:21.454 1b157 Delete type=0 #14
+2026/11/04-10:24:28.511 1b157 Level-0 table #20: started
+2026/11/04-10:24:28.517 1b157 Level-0 table #20: 60887 bytes OK
+2026/11/04-10:24:28.522 1b157 Delete type=0 #17
+2026/11/04-10:27:06.894 1b157 Level-0 table #22: started
+2026/11/04-10:27:06.939 1b157 Level-0 table #22: 64915 bytes OK
+2026/11/04-10:27:06.945 1b157 Delete type=0 #19
+2026/11/04-10:30:22.455 1b157 Level-0 table #24: started
+2026/11/04-10:30:22.461 1b157 Level-0 table #24: 62156 bytes OK
+2026/11/04-10:30:22.466 1b157 Delete type=0 #21
+2026/11/04-10:30:22.466 1b157 Compacting 4@0 + 1@1 files
+2026/11/04-10:30:22.472 1b157 Generated table #25@0: 42 keys, 70720 bytes
+2026/11/04-10:30:22.472 1b157 Compacted 4@0 + 1@1 files => 70720 bytes
+2026/11/04-10:30:22.477 1b157 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/04-10:30:22.477 1b157 Delete type=2 #24
+2026/11/04-10:30:22.477 1b157 Delete type=2 #20
+2026/11/04-10:30:22.477 1b157 Delete type=2 #18
+2026/11/04-10:30:22.478 1b157 Delete type=2 #22
+2026/11/04-10:30:22.478 1b157 Delete type=2 #16
+2026/11/04-10:49:06.894 1b157 Level-0 table #27: started
+2026/11/04-10:49:06.939 1b157 Level-0 table #27: 15679 bytes OK
+2026/11/04-10:49:06.944 1b157 Delete type=0 #23
+2026/11/04-11:40:54.944 1b157 Level-0 table #29: started
+2026/11/04-11:40:54.951 1b157 Level-0 table #29: 62989 bytes OK
+2026/11/04-11:40:54.957 1b157 Delete type=0 #26
