@@ -23,6 +23,8 @@ google-chrome/
 waydroid-helper/
 Restore_Firefox/
 /home/star/.config/mpv/shaders/cache/
+vesktop/Crashpad
+vesktop/sessionData
 
 # === Development & Build Artifacts ===
 go/
