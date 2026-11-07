@@ -114,3 +114,8 @@ hl.window_rule({
     opacity = "1.0 override",
 })
 
+hl.window_rule({
+    match = { class = "Picture-in-Picture" },
+    opacity = "1.0 override",
+})
+
