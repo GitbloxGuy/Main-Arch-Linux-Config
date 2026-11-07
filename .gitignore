@@ -30,3 +30,9 @@ vesktop/sessionData
 go/
 gtk-3.0/
 electron-builder.json
+vesktop/sessionData/
+zen/
+.zen/
+vesktop/sessionData/
+zen/
+.zen/
